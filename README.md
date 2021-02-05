@@ -1,5 +1,5 @@
 # RangeTree
-Java Implementation of 2D Range Tree based on this slide.
+Java Implementation of 2D Range Tree based on this [slide](https://github.com/DanialDMQ/RangeTree/blob/main/slides5b.pdf).
 
 This is not the most efficient one but can be extended to higher dimensions easily.
 

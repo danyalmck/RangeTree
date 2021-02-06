@@ -7,7 +7,8 @@ PS: The code is not clean, thanks to the proper time of the deadline. (yes, this
 
 PS: The construction of y-tree is [lazy](https://en.wikipedia.org/wiki/Lazy_evaluation). (the original RangeTree is not like this. I did it as a trick to pass all of the test cases =)) ) 
 
-#How to use
+# How to use
+
 Run Main.java
 
 Input:
